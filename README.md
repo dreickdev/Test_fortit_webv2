@@ -15,11 +15,11 @@ para correr -
 
 npm install  
 ## FUNCIONAMIENTO 
-[Demostracion](GIT_Media/_video.gif) 
+![Demostracion](GIT_Media/video.gif) 
 
 
 ## VIDEO DE FUNCIONAMIENTO 
-[Ver video explicativo](GIT_Media/demo.mp4) 
+![Ver video explicativo](GIT_Media/demo.mp4) 
 ## CAPTURAS DEL PROGRAMA 
 ![Gestor de Tareas](GIT_Media/1.png)
 ## CAPTURAS DEL PROGRAMA 
