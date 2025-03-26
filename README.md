@@ -14,7 +14,7 @@ para correr -
 
 
 npm install  
-## VIDEO DE FUNCIONAMIENTO 
+## FUNCIONAMIENTO 
 [Demostracion](GIT_Media/_video.gif) 
 
 
@@ -33,15 +33,9 @@ npm install
 ## CAPTURAS DEL PROGRAMA 
 ![Gestor de Tareas](GIT_Media/6.png)
 ## CAPTURAS DEL PROGRAMA 
-![Gestor de Tareas](GIT_Media/7.png)
+![Gestor de Tareas](GIT_Media/6 1.png)
 ## CAPTURAS DEL PROGRAMA 
-![Gestor de Tareas](GIT_Media/8.png)
-## CAPTURAS DEL PROGRAMA 
-![Gestor de Tareas](GIT_Media/9.png)
-## CAPTURAS DEL PROGRAMA 
-![Gestor de Tareas](GIT_Media/1.png)
-
-
+![Gestor de Tareas](GIT_Media78.png)
 
 
 ### Recursos Adicionales
