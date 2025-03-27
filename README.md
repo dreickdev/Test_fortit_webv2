@@ -19,7 +19,11 @@ npm install
 
 
 ## VIDEO DE FUNCIONAMIENTO 
+<<<<<<< HEAD
 ![Ver video explicativo](GIT_Media/demo.mp4) 
+=======
+[Ver video explicativo](GIT_Media/demo.mp4) 
+>>>>>>> e858abf341011d1fcf9c6b4e892f13b8b2f870d3
 ## CAPTURAS DEL PROGRAMA 
 ![Gestor de Tareas](GIT_Media/1.png)
 ## CAPTURAS DEL PROGRAMA 
